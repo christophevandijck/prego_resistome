@@ -1,0 +1,148 @@
+batch;tax;contam
+batch02; TM7 phylum sp. oral taxon 488;0
+batch02;Bifidobacterium longum;0
+batch02;Escherichia coli;0
+batch02;Leptotrichia sp. oral taxon 498;0
+batch02;Mesorhizobium amorphae;1
+batch02;Mesorhizobium loti;1
+batch02;Mesorhizobium sp. M1B.F.Ca.ET.045.04.1.1;1
+batch02;Mesorhizobium sp. M1D.F.Ca.ET.043.01.1.1;1
+batch02;Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1;1
+batch02;Mesorhizobium sp. M2A.F.Ca.ET.043.02.1.1;1
+batch02;Mesorhizobium sp. M2A.F.Ca.ET.043.05.1.1;1
+batch02;Mesorhizobium sp. M2A.F.Ca.ET.046.03.2.1;1
+batch02;Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1;1
+batch02;Mesorhizobium sp. M4B.F.Ca.ET.058.02.1.1;1
+batch02;Mesorhizobium sp. WSM1497;1
+batch02;Ralstonia insidiosa;0
+batch02;Streptococcus pyogenes;0
+batch03;Aggregatibacter aphrophilus;0
+batch03;Bifidobacterium longum;0
+batch03;Campylobacter showae;0
+batch03;Capnocytophaga leadbetteri;0
+batch03;Capnocytophaga sp. FDAARGOS_737;0
+batch03;Corynebacterium matruchotii;0
+batch03;Klebsiella pneumoniae;0
+batch03;Lautropia mirabilis;0
+batch03;Leptotrichia sp. oral taxon 498;0
+batch03;Ralstonia insidiosa;0
+batch03;Streptococcus dysgalactiae;0
+batch03;Treponema denticola;0
+batch03;Veillonella rodentium;0
+batch04;Aggregatibacter aphrophilus;0
+batch04;Bifidobacterium longum;0
+batch04;Campylobacter showae;0
+batch04;Capnocytophaga leadbetteri;0
+batch04;Capnocytophaga sp. FDAARGOS_737;0
+batch04;Capnocytophaga sputigena;0
+batch04;Lautropia mirabilis;0
+batch04;Neisseria sp. oral taxon 014;0
+batch04;Ralstonia insidiosa;0
+batch04;Staphylococcus aureus;0
+batch04;Streptococcus pyogenes;0
+batch05;Actinomyces sp. oral taxon 414;0
+batch05;Aggregatibacter aphrophilus;0
+batch05;Bifidobacterium longum;0
+batch05;Corynebacterium matruchotii;0
+batch05;Lautropia mirabilis;0
+batch05;Leptotrichia sp. oral taxon 498;0
+batch05;Mesorhizobium amorphae;1
+batch05;Mesorhizobium australicum;1
+batch05;Mesorhizobium ciceri;1
+batch05;Mesorhizobium huakuii;1
+batch05;Mesorhizobium japonicum;1
+batch05;Mesorhizobium loti;1
+batch05;Mesorhizobium opportunistum;1
+batch05;Mesorhizobium soli;1
+batch05;Mesorhizobium sp. M1B.F.Ca.ET.045.04.1.1;1
+batch05;Mesorhizobium sp. M1D.F.Ca.ET.043.01.1.1;1
+batch05;Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1;1
+batch05;Mesorhizobium sp. M2A.F.Ca.ET.043.02.1.1;1
+batch05;Mesorhizobium sp. M2A.F.Ca.ET.043.05.1.1;1
+batch05;Mesorhizobium sp. M2A.F.Ca.ET.046.03.2.1;1
+batch05;Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1;1
+batch05;Mesorhizobium sp. M4B.F.Ca.ET.058.02.1.1;1
+batch05;Mesorhizobium sp. M6A.T.Cr.TU.016.01.1.1;1
+batch05;Mesorhizobium sp. M7A.F.Ce.TU.012.03.2.1;1
+batch05;Mesorhizobium sp. M7D.F.Ca.US.005.01.1.1;1
+batch05;Mesorhizobium sp. M9A.F.Ca.ET.002.03.1.2;1
+batch05;Mesorhizobium sp. Pch-S;1
+batch05;Mesorhizobium sp. WSM1497;1
+batch05;Neisseria cinerea;0
+batch05;Neisseria gonorrhoeae;0
+batch05;Neisseria polysaccharea;0
+batch05;Olsenella sp. oral taxon 807;0
+batch05;Prevotella dentalis;0
+batch05;Ralstonia insidiosa;0
+batch05;Ralstonia mannitolilytica;1
+batch05;Selenomonas sp. oral taxon 126;0
+batch05;Streptococcus pyogenes;0
+batch06;Aggregatibacter segnis;0
+batch06;Neisseria sp. oral taxon 014;0
+batch06;Streptococcus pyogenes;0
+batch06;Veillonella rodentium;0
+batch07;Actinomyces naeslundii;0
+batch07;Actinomyces sp. oral taxon 171;0
+batch07;Actinomyces sp. oral taxon 414;0
+batch07;Aggregatibacter aphrophilus;0
+batch07;Aggregatibacter segnis;0
+batch07;Capnocytophaga leadbetteri;0
+batch07;Capnocytophaga sp. FDAARGOS_737;0
+batch07;Capnocytophaga sputigena;0
+batch07;Corynebacterium matruchotii;0
+batch07;Haemophilus pittmaniae;0
+batch07;Haemophilus sp. oral taxon 036;0
+batch07;Neisseria cinerea;0
+batch07;Neisseria gonorrhoeae;0
+batch07;Neisseria polysaccharea;0
+batch07;Neisseria sp. oral taxon 014;0
+batch07;Olsenella sp. oral taxon 807;0
+batch07;Streptococcus dysgalactiae;0
+batch07;Streptococcus sp. FDAARGOS_522;0
+batch07;Streptococcus suis;0
+batch07;Veillonella rodentium;0
+batch11;Capnocytophaga leadbetteri;0
+batch11;Capnocytophaga sp. FDAARGOS_737;0
+batch11;Capnocytophaga sputigena;0
+batch11;Fusobacterium periodonticum;0
+batch11;Lautropia mirabilis;0
+batch11;Leptotrichia sp. oral taxon 498;0
+batch11;Paraburkholderia fungorum;1
+batch11;Rhodococcus erythropolis;1
+batch11;Rhodococcus qingshengii;1
+batch11;Rhodococcus sp. 008;1
+batch11;Rhodococcus sp. AQ5-07;1
+batch11;Rhodococcus sp. BH4;1
+batch11;Rhodococcus sp. H-CA8f;1
+batch11;Rhodococcus sp. NJ-530;1
+batch11;Rhodococcus sp. YL-1;1
+batch11;Selenomonas sp. oral taxon 126;0
+batch11;Stenotrophomonas maltophilia;1
+batch11;Stenotrophomonas sp. ASS1;1
+batch11;Stenotrophomonas sp. PAMC25021;1
+batch11;Streptococcus intermedius;0
+batch11;Streptococcus milleri;0
+batch11;Treponema denticola;0
+batch11;Treponema sp. OMZ 804;0
+batch12;Actinomyces sp. oral taxon 414;0
+batch12;Bifidobacterium longum;0
+batch12;Corynebacterium matruchotii;0
+batch12;Dialister pneumosintes;0
+batch12;Fusobacterium periodonticum;0
+batch12;Lautropia mirabilis;0
+batch12;Leptotrichia buccalis;0
+batch12;Leptotrichia shahii;0
+batch12;Leptotrichia sp. oral taxon 498;0
+batch12;Leptotrichia trevisanii;0
+batch12;Neisseria polysaccharea;0
+batch12;Neisseria sp. oral taxon 014;0
+batch12;Selenomonas sp. oral taxon 126;0
+batch12;Selenomonas sputigena;0
+batch12;Streptococcus constellatus;0
+batch12;Streptococcus intermedius;0
+batch12;Streptococcus milleri;0
+batch12;Streptococcus pyogenes;0
+batch12;Treponema denticola;0
+batch12;Treponema sp. OMZ 804;0
+batch12;Treponema sp. OMZ 838;0
+batch12;Veillonella rodentium;0
